@@ -5,5 +5,5 @@
 사이트 개발 GitHub입니다.
 
 https://quokkadh.github.io/urisys/
-ver1.0
+
  
