@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/urisys/static/css/main.073c9b0a.css",
-    "main.js": "/urisys/static/js/main.74d43f4c.js",
+    "main.css": "/urisys/static/css/main.2df772f0.css",
+    "main.js": "/urisys/static/js/main.de328747.js",
     "static/js/787.01c48e3a.chunk.js": "/urisys/static/js/787.01c48e3a.chunk.js",
     "index.html": "/urisys/index.html",
-    "main.073c9b0a.css.map": "/urisys/static/css/main.073c9b0a.css.map",
-    "main.74d43f4c.js.map": "/urisys/static/js/main.74d43f4c.js.map",
+    "main.2df772f0.css.map": "/urisys/static/css/main.2df772f0.css.map",
+    "main.de328747.js.map": "/urisys/static/js/main.de328747.js.map",
     "787.01c48e3a.chunk.js.map": "/urisys/static/js/787.01c48e3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.74d43f4c.js"
+    "static/css/main.2df772f0.css",
+    "static/js/main.de328747.js"
   ]
 }
